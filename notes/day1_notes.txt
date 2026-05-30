@@ -1,1 +1,7 @@
+Day 1 Completed
 
+- Created AdTech_AI_Journey project
+- Built first ad campaign analysis
+- Learned Pandas basics
+- Calculated CTR and CPC
+- Fixed CSV column issue
